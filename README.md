@@ -1,4 +1,4 @@
-# Task 4: Loan Default Risk with Business Cost Optimization
+# Loan Default Risk with Business Cost Optimization
 
 ## Overview
 Predict loan default likelihood and optimize decision thresholds based on cost-benefit analysis to minimize business losses.
@@ -7,6 +7,7 @@ Predict loan default likelihood and optimize decision thresholds based on cost-b
 Build binary classification models and optimize the prediction threshold considering business costs of false positives and false negatives.
 
 ## Dataset
+**The Dataset is available on kaggle**
 - **Source:** Home Credit Default Risk Dataset
 - **Samples:** ~70,000 loan applications (30% sample)
 - **Features:** Demographics, income, credit amount, employment history, external scores
